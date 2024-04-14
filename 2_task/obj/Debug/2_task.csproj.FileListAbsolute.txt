@@ -1,0 +1,7 @@
+C:\Users\Svetlana\Desktop\стажировка\2_task\bin\Debug\2_task.exe.config
+C:\Users\Svetlana\Desktop\стажировка\2_task\bin\Debug\2_task.exe
+C:\Users\Svetlana\Desktop\стажировка\2_task\bin\Debug\2_task.pdb
+C:\Users\Svetlana\Desktop\стажировка\2_task\obj\Debug\2_task.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Desktop\стажировка\2_task\obj\Debug\2_task.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Desktop\стажировка\2_task\obj\Debug\2_task.exe
+C:\Users\Svetlana\Desktop\стажировка\2_task\obj\Debug\2_task.pdb
